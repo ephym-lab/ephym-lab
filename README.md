@@ -27,10 +27,11 @@ I enjoy working on:
 
 ---
 
-# 🧩 Animated Code Snippet
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?multiline=true&height=120&lines=from+time+import+sleep;skills+=['Backend+Engineering','Machine+Learning','Computer+Vision','NLP'];for+skill+in+skills:+print(f'🚀+Building+with:+{skill}');sleep(1);print('✨+Always+learning,+always+improving.')" />
 </p>
+
+
 
 ---
 
@@ -91,6 +92,3 @@ I enjoy working on:
 </div>
 
 ---
-
-# 🧮 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=ephym-lab&icon=0&color=0)](https://visitcount.itsvg.in)
