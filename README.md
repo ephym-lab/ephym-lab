@@ -28,10 +28,8 @@ I enjoy working on:
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?multiline=true&height=120&lines=from+time+import+sleep;skills+=['Backend+Engineering','Machine+Learning','Computer+Vision','NLP'];for+skill+in+skills:+print(f'🚀+Building+with:+{skill}');sleep(1);print('✨+Always+learning,+always+improving.')" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=from+time+import+sleep;skills+=['Backend+Engineering','Machine+Learning','Computer+Vision','NLP'];for+skill+in+skills:+print(f'🚀+Building+with:+{skill}');sleep(1);print('✨+Always+learning,+always+improving.')&width=700&height=140&multiline=true&center=false&size=20" />
 </p>
-
-
 
 ---
 
